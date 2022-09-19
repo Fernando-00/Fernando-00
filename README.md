@@ -5,7 +5,7 @@
 
 - 🔭 I’ve worked on [GameChat App](https://gamechatz.herokuapp.com/)
 
-- 🔭 I’ve worked on [Photo App](https://photo-app-secured.herokuapp.com)
+- 🔭 I’ve worked on [Photo App](https://github.com/Fernando-00/photo-app)
 
 - 🔭 I’ve worked on [Reversi Game](https://github.com/Fernando-00/reversi-game)
 

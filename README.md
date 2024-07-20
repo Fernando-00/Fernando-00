@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fernando Rosell</h1>
 <h3 align="center">An aspiring computer science major from Chicago, Illinois.</h3>
 
-- 🔭 I’ve worked on [Rosell Shop](https://rosell-shop.herokuapp.com/)
+- 🔭 I’ve worked on [Rosell Shop](https://github.com/Fernando-00/rosell-shop-frontend)
 
-- 🔭 I’ve worked on [GameChat App](https://gamechatz.herokuapp.com/)
+- 🔭 I’ve worked on [GameChat App](https://github.com/Fernando-00/gamechat)
 
 - 🔭 I’ve worked on [Photo App](https://github.com/Fernando-00/photo-app)
 
 - 🔭 I’ve worked on [Reversi Game](https://github.com/Fernando-00/reversi-game)
 
-- 🌱 I’m currently learning **Intro to Computer Systems,Mathematical Foundations of Computer Science, and Game Design with C#**
+- 🌱 I recently graduated and am open for job oppurtunities!
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fernando-00](https://github.com/Fernando-00)
 
-- 📫 How to reach me **fernandorosell2024@u.northwestern.edu**
+- 📫 How to reach me **fernando.rosell.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

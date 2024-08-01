@@ -9,7 +9,7 @@
 
 - 🔭 I’ve worked on [Reversi Game](https://github.com/Fernando-00/reversi-game)
 
-- - 🔭 I’ve worked on [MemoryRecoil Game](https://github.com/Fernando-00/memoryrecoil)
+-  🔭 I’ve worked on [MemoryRecoil Game](https://github.com/Fernando-00/memoryrecoil)
 
 - 🌱 I recently graduated and am open for job oppurtunities!
 

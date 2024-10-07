@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando Rosell</h1>
-<h3 align="center">An aspiring computer science major from Chicago, Illinois.</h3>
+<h3 align="center">A computer science major from Chicago, Illinois.</h3>
 
 - 🔭 I’ve worked on [Rosell Shop](https://github.com/Fernando-00/rosell-shop-frontend)
 
